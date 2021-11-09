@@ -1,0 +1,14 @@
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PingCheker.exe
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PingCheker.deps.json
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PingCheker.runtimeconfig.json
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PingCheker.runtimeconfig.dev.json
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PingCheker.dll
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PingCheker.pdb
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PingCheker.dll
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PingCheker.pdb
+C:\Users\Xeon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
